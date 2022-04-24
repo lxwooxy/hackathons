@@ -97,3 +97,25 @@ Expected Output
 Case #2: AAAAAAAAAA
 Case #3: CCODDEEJAAMDAAY
 ```
+
+### Round 1B
+- Pancake Deque
+
+Sample Input
+```
+4
+2
+1 5
+4
+1 4 2 3
+5
+10 10 10 10 10
+4
+7 1 3 1000000
+```
+Expected Output
+```Case #1: 2
+Case #2: 3
+Case #3: 5
+Case #4: 2
+```
