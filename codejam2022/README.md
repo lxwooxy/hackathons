@@ -113,6 +113,7 @@ Sample Input
 4
 7 1 3 1000000
 ```
+
 Expected Output
 ```Case #1: 2
 Case #2: 3
